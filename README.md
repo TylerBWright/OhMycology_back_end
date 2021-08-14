@@ -33,6 +33,6 @@ Members are comprised of three unique roles:
 
 Expect to see OhMycology.net go live this Fall!
 
-Many thanks goes out to all of the staff, instructors, and mentors of Claim Academy who helped me realize this corner of the internet.
+Many thanks goes out to all of the staff, instructors, peers, and mentors of Claim Academy who helped me realize this corner of the internet.
 
 <em>Tyler Wright, 2021</em>
